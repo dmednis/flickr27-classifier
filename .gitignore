@@ -1,0 +1,8 @@
+node_modules/
+build/
+retrain/bottlenecks/
+retrain/inception
+images/dataset/
+images/logos/
+*.tar.gz
+.idea/
